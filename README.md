@@ -1,6 +1,7 @@
+![Software Developer](https://scontent.fdac12-1.fna.fbcdn.net/v/t1.6435-9/78937254_102977791193086_1290670962739511296_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFfcTP7Uo_bAsKbXMXThNQBOr7VP8vQ1CM6vtU_y9DUIzBNrgRMHNO9hbRZ8WillrMFtGf8NBoYL6Ui6AJY3I7v&_nc_ohc=Tc2KH7dsU5oAX_k1CPi&_nc_ht=scontent.fdac12-1.fna&oh=824ac10b6e44b356a76317b04a489475&oe=617E293D)
 ### Hi there 👋, I'm Mithu Hasan
 #### Software Developer
-![Software Developer](https://scontent.fdac12-1.fna.fbcdn.net/v/t1.6435-9/78937254_102977791193086_1290670962739511296_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFfcTP7Uo_bAsKbXMXThNQBOr7VP8vQ1CM6vtU_y9DUIzBNrgRMHNO9hbRZ8WillrMFtGf8NBoYL6Ui6AJY3I7v&_nc_ohc=Tc2KH7dsU5oAX_k1CPi&_nc_ht=scontent.fdac12-1.fna&oh=824ac10b6e44b356a76317b04a489475&oe=617E293D)
+
 
 I’m an independent web developer with more than 3 years experience of front end and back end web development. I also experience in Graphics design. I think that "A creationist in every sense of the world". I love to do web programming, learning new things. I’m a very hard worker like to getting risks and challenges. I’m strongly experienced in HTML5, CSS3, Bootstrap4, convert PSD /JPEG to HTML, JavaScript, jQuery, PHP(Laravel), MySQL, as well as Adobe Photoshop and Illustrator. I've experienced in a responsive design that supports any device. I always work on clients' satisfaction.
 
