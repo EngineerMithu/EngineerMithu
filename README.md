@@ -1,4 +1,4 @@
-![Software Developer](https://scontent.fdac12-1.fna.fbcdn.net/v/t1.6435-9/78937254_102977791193086_1290670962739511296_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFfcTP7Uo_bAsKbXMXThNQBOr7VP8vQ1CM6vtU_y9DUIzBNrgRMHNO9hbRZ8WillrMFtGf8NBoYL6Ui6AJY3I7v&_nc_ohc=Tc2KH7dsU5oAX_k1CPi&_nc_ht=scontent.fdac12-1.fna&oh=824ac10b6e44b356a76317b04a489475&oe=617E293D)
+
 ### Hi there 👋, I'm Mithu Hasan
 #### Software Developer
 
