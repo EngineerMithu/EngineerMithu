@@ -3,7 +3,7 @@
 #### Software Developer
 
 
-I’m an independent web developer with more than 3 years experience of front end and back end web development. I also experience in Graphics design. I think that "A creationist in every sense of the world". I love to do web programming, learning new things. I’m a very hard worker like to getting risks and challenges. I’m strongly experienced in HTML5, CSS3, Bootstrap4, convert PSD /JPEG to HTML, JavaScript, jQuery, PHP(Laravel), MySQL, as well as Adobe Photoshop and Illustrator. I've experienced in a responsive design that supports any device. I always work on clients' satisfaction.
+I’m an independent web developer with more than 1 year experience of front end and back end web development. I also experience in Graphics design. I think that "A creationist in every sense of the world". I love to do web programming, learning new things. I’m a very hard worker like to getting risks and challenges. I’m strongly experienced in HTML5, CSS3, Bootstrap4, convert PSD /JPEG to HTML, JavaScript, jQuery, PHP(Laravel), MySQL, as well as Adobe Photoshop and Illustrator. I've experienced in a responsive design that supports any device. I always work on clients' satisfaction.
 
 Skills: HTML / CSS/JS/Bootstrap/Ajax/PHP/Laravel
 
